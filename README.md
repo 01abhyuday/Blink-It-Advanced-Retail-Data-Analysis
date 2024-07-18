@@ -5,7 +5,7 @@ Utilized Power BI to conduct an in-depth analysis of Blink It's retail data, foc
 
 Key Achievements:
 
-Sales Analysis: Identified top-selling item types and high-performing outlets. Analyzed sales trends by outlet location and item visibility.
+@Sales Analysis: Identified top-selling item types and high-performing outlets. Analyzed sales trends by outlet location and item visibility.
 Outlet Performance: Evaluated outlet performance based on size, location type, and establishment year, revealing their impact on sales.
 Product Insights: Assessed the relationship between item fat content, visibility, and ratings with sales, providing a comprehensive understanding of consumer preferences.
 Skills Utilized:
